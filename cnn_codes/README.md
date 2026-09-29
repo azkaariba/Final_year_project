@@ -1,4 +1,4 @@
-# ✍️ Handwritten Character Recognition using CNN
+# Emotion Recognition using CNN
 
 A deep learning project that trains a **Convolutional Neural Network (CNN)** to recognize handwritten characters from images. Built with **TensorFlow / Keras** and **OpenCV**.
 
